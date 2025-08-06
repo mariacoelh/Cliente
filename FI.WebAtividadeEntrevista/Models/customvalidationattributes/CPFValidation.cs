@@ -1,5 +1,5 @@
-using System.ComponentModel.DataAnnotations;
 using CpfLibrary;
+using System.ComponentModel.DataAnnotations;
 
 namespace WebAtividadeEntrevista.CustomValidationAttributes
 {
